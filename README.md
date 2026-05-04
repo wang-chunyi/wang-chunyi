@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi there 👋 I'm Chun-Yi Wang
 
-<!--
-**wang-chunyi/wang-chunyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Medical Lab Lead at Chang Gung Memorial Hospital, transitioning to Healthcare AI.
 
-Here are some ideas to get you started:
+🔬 **Background**: 10+ years in clinical diagnostics, leading a medical lab team
+🎓 **Education**: NTU Pharmacy (M.S.) & Medical Technology (B.S.)
+🌱 **Currently learning**: Machine Learning, Python, Healthcare AI applications
+🎯 **Goal**: Bridging clinical expertise with ML to improve healthcare
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 Learning Journey
+- ✅ Completed Hung-yi Lee's Machine Learning course
+- 🔄 Working through Kaggle Learn
+- 📊 First Kaggle competition project coming soon
+
+### 📫 Connect
+- LinkedIn: www.linkedin.com/in/wang-chunyi
+- Email: gullinpig@gmail.com
