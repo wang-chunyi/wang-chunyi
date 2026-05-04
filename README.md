@@ -13,5 +13,5 @@ Medical Lab Lead at Chang Gung Memorial Hospital, transitioning to Healthcare AI
 - 📊 First Kaggle competition project coming soon
 
 ### 📫 Connect
-- LinkedIn: www.linkedin.com/in/wang-chunyi
-- Email: gullinpig@gmail.com
+- LinkedIn: [linkedin.com/in/wang-chunyi](https://www.linkedin.com/in/wang-chunyi/)
+- 📧 Reach out via LinkedIn for opportunities
